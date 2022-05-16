@@ -1,3 +1,1 @@
-Hoyong Jeong
-Hello World!
-20190122 KMU
+20190122 Hoyong Jeong
